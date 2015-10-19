@@ -7,7 +7,7 @@
  */
 
 define("API_VERSION", "1");
-define("API_ENDPOINT", "http://api.ontraport.com/" . API_VERSION);
+define("API_ENDPOINT", "https://api.ontraport.com/" . API_VERSION);
 
 define("CONTACT_ITEM", 0);
 define("TAG_ITEM", 14);
